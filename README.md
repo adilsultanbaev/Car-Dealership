@@ -40,12 +40,6 @@ Material UI - A UI library for React with a set of components following Google's
 ## Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
-Tiberius Mairura - Initial work - [Your Github](https://github/hermitex)
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 ## Acknowledgments
 - Material UI for providing the UI components
 
